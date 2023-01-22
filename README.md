@@ -1,5 +1,5 @@
 # TrayMenu
-A replacement of the tray toolbar function that removed from Windows 11
+A replacement of the tray toolbar function that was removed from Windows 11. I use this to launch Java executables since JARs cant be launched by double clicking or pinned to the taskbar.
 
 Inspired by https://github.com/rojarsmith/TrayToolbar
 
